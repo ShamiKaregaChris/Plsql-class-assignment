@@ -1,4 +1,23 @@
 # Plsql-class-assignment
+ # 1. HR Employee Management System Package 
+ 
+ # Question: The assignment required designing a comprehensive PL/SQL package for an HR system that manages employee salaries and taxes with specific technical requirement
+ 
+ # Solution Approach
+ We created a comprehensive package with AUTHID CURRENT_USER for security
+Implemented modular functions for reusability
+Used dynamic SQL for flexible database operations
+Added robust error handling throughout
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  # 1. AUCA System Access Policy Implementation
 
 ## Project Overview
