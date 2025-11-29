@@ -35,8 +35,8 @@ We implemented two primary database triggers:
 ### Trigger Implementation
 ![image alt](
 
-### Test Cases Execution  
-![image alt] (https://github.com/ShamiKaregaChris/Plsql-class-assignment/blob/main/Screenshot%202025-11-29%20214102.png?raw=true)
+### Test Cases Execution 
+![image alt](https://github.com/ShamiKaregaChris/Plsql-class-assignment/blob/main/Screenshot%202025-11-29%20214102.png?raw=true)
 
 ### Violation Audit Logs
 ![image alt](https://github.com/ShamiKaregaChris/Plsql-class-assignment/blob/main/Screenshot%202025-11-29%20214017.png?raw=true)
