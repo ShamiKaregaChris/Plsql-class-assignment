@@ -22,7 +22,7 @@ Added robust error handling throughout
  
 
  
- # 1. AUCA System Access Policy Implementation
+ # 2. AUCA System Access Policy Implementation
 
 ## Project Overview
 **Question:** Implement database triggers to enforce AUCA's system access policy restricting data access to Monday-Friday, 8:00 AM to 5:00 PM, while logging all violation attempts.
