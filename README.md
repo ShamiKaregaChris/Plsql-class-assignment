@@ -33,7 +33,7 @@ We implemented two primary database triggers:
 ## Screenshots
 
 ### Trigger Implementation
-![image alt](
+![image alt](https://github.com/ShamiKaregaChris/Plsql-class-assignment/blob/main/Screenshot%202025-11-29%20214146.png?raw=true)
 
 ### Test Cases Execution 
 ![image alt](https://github.com/ShamiKaregaChris/Plsql-class-assignment/blob/main/Screenshot%202025-11-29%20214102.png?raw=true)
