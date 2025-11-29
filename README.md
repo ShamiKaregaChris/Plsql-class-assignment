@@ -33,8 +33,7 @@ We implemented two primary database triggers:
 ## Screenshots
 
 ### Trigger Implementation
-![Trigger Creation](<img width="1205" height="630" alt="Screenshot 2025-11-29 213859" src="https://github.com/user-attachments/assets/4f77b428-abb3-405c-8145-00543a3ec808" />
-)
+![Trigger Creation](![image alt](https://github.com/ShamiKaregaChris/Plsql-class-assignment/blob/main/Screenshot%202025-11-29%20214017.png?raw=true)
 
 ### Test Cases Execution  
 ![Test Results](screenshots/test_cases.png)
