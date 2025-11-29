@@ -1,7 +1,8 @@
 # Plsql-class-assignment
  # 1. HR Employee Management System Package 
  
- # Question: The assignment required designing a comprehensive PL/SQL package for an HR system that manages employee salaries and taxes with specific technical requirement
+ # Question: 
+ The assignment required designing a comprehensive PL/SQL package for an HR system that manages employee salaries and taxes with specific technical requirement
  
  # Solution Approach
  We created a comprehensive package with AUTHID CURRENT_USER for security
@@ -9,7 +10,7 @@ Implemented modular functions for reusability
 Used dynamic SQL for flexible database operations
 Added robust error handling throughout
 
- 
+ ![image alt](https://github.com/ShamiKaregaChris/Plsql-class-assignment/blob/main/WhatsApp%20Image%202025-11-29%20at%2020.24.45%20(1).jpeg)
  
  
  
